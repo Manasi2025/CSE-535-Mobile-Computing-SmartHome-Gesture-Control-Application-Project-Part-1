@@ -1,10 +1,7 @@
 # SmartHome-Gesture-Control-Application-Project
-CSE 535: Mobile Computing: SmartHome Gesture Control Application Project
-
-CSE 535: Mobile Computing
+CSE 535: Mobile Computing : SmartHome Gesture Control Application : Project Part 1
 
 SmartHome Gesture Control Application
-
 Project Part 1
 
 Purpose
